@@ -1068,7 +1068,17 @@ textarea.input-field {
     right: calc(100% + 20px);
   }
 
-
+  /* Alert message */
+  .alert{
+    width: 100%;
+    background: rgb(0, 255, 106);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+    display: none;
+  }
 
   /**
    * HEADER
